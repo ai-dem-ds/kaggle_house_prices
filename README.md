@@ -50,7 +50,7 @@ This significantly improved model performance.
   
 Notebook: 'notebooks/02_log_target.ipynb' 
   
-### Gardient Boosting Regression 
+### 3. Gardient Boosting Regression 
 A more powerful non-linear model was trained to capture complex feature interactions.  
 - Gardient Boosting Regressor 
 - Same preprocessing pipeline
