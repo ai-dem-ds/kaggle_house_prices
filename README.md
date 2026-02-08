@@ -59,10 +59,10 @@ A more powerful non-linear model was trained to capture complex feature interact
 Notebook: 'notebooks/03_gardient_boosting.ipynb' 
   
 ## Results 
-*Model:*                            *Public Score:*  
-Baseline (no log target)                ~0.149
-Linear Model + log target               ~0.135
-Gradient Boosting + log target          ~0.137
+*Model* & *Public Score:*  
+- Baseline (no log target)        ~0.149
+- Linear Model + log target       ~0.135
+- Gradient Boosting + log target  ~0.137
 
 The log-target transformation provided the biggest performance gain.  
   
